@@ -1,0 +1,2 @@
+webpackJsonp([49683490770531],{420:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{path:"/post1",author:"Your Name",date:"October 1st, 2018",title:"Creating a simple weather app with React, NodeJs, & Express",tags:["react","node"],description:"Learn to connect a frontend client via proxy to a Node Express server, and request API data via routes on the server."}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---blog-4365b645099ca6ce8a56.js.map
